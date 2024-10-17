@@ -1,9 +1,7 @@
-let bank = 500;
-let withdrawal = 50;
-
-
+var withdrawal = 5000;
 do{
-	console.log(bank)
-	bank--,
+bank = 50;
 
-}while(int withdrawal = 50, withdrawal <= bank, withdrawal--)
+	console.log(withdrawal -50)
+
+}while(bank > 5000)
