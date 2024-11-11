@@ -1,4 +1,4 @@
-FUNCTION DECLARATION
+//functions Declaration
 
 let numberOne = 2;
 const numberTwo = 4;
@@ -16,7 +16,6 @@ const add = function(firstNumber, secondNumber){
 }
   //statement
   //function expression
-}
 
 console.log
 ==============================================================================================================
@@ -49,7 +48,7 @@ console.log(sum(numberOne, numberTwo));
 FUNCTION AS AN OBJECT
 
 function calculate(count){
-	return (
+	return {
 		name: "Tijani",
 		sex: "shemale",
 		value: "count",
@@ -62,10 +61,10 @@ function calculate(count){
  decrement(){
     count--;
      return count;
-  )
+ }
 
  }
-}
+
 
 console.log(calculate(value))
 
@@ -90,7 +89,6 @@ calculate(numberOne, multiply)
 console.log(greet("Borku", (name)=> {
    return Hello $(name) You are welcome to Amotekun`;
 }))
-
 // const multiply = (value)=> {
 //	const number = 5;
 //    return number = value;
