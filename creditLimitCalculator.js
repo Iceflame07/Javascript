@@ -2,9 +2,9 @@ let first balance = window.prompt("Enter number of first balance:");
 console.log("first balance")
 
 let first_balance = 50000;
-let total_customers items = 2500;
-let total_credit applied = 10000;
-let credit_Limit = 10000;c 
+let total_customers = 2500;
+let total_credit = 10000;
+let credit_Limit = 10000; 
 
 for (let a = 0; a < credit Limit; a++) {
 

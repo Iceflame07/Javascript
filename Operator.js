@@ -24,5 +24,4 @@ case 3: if(multiply(operatorOne, operatorTwo))
 	break;
 
 case 4: if(divide(operatorOne, operatorTwo))
-	console.log(operatorOne, operatorTwo)
-	sbreak;
+	console.log(operatorOne, operatorTwo) break;

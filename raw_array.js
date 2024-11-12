@@ -3,7 +3,7 @@ let raw_array = [
             [Name][obj][tem][null],
             [Name][null][temp]][currency]
 
-
+            
 for(let row = 0; row < 4; row++){
     for(let col = 0; col < 4; col++){
         console.log(raw_array)

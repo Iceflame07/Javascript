@@ -88,7 +88,7 @@ return number = value;
 calculate(numberOne, multiply)
 	console.log(greet("Borku", (name)))=> {
 }
-   return Hello $(name) You are welcome to Amotekun`;
+   return Hello $(name) You are welcome to Amotekun,ESN & Arewa Youth Forum`;
 }))
 // const multiply = (value)=> {
 //	const number = 5;
