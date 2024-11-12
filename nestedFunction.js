@@ -44,7 +44,7 @@ const sum = (numberOne, numberTwo)=> {
 }
 
 console.log(sum(numberOne, numberTwo));
-==============================================================================================================
+=============================================================================================================
 FUNCTION AS AN OBJECT
 
 function calculate(count){
@@ -86,7 +86,8 @@ return number = value;
 }
 
 calculate(numberOne, multiply)
-console.log(greet("Borku", (name)=> {
+	console.log(greet("Borku", (name)))=> {
+}
    return Hello $(name) You are welcome to Amotekun`;
 }))
 // const multiply = (value)=> {

@@ -4,7 +4,7 @@ document.write("trips")
 let totalmiles = 0;
 let gallon = 0;
 let miles = 0;
-let trips = 0;
+let journeys = 0;
 
 for (let a = 0; a < trips; a++) {
 
@@ -19,7 +19,7 @@ for (let a = 0; a < trips; a++) {
 	gallons = totalmiles + gallons;
 }
 
-double trips = totalmiles + gallon;
+let trip = totalmiles + gallon;
 console.log("Average miles per gallon: " + trips);
 
 
