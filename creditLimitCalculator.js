@@ -1,12 +1,13 @@
-let first balance = window.prompt("Enter number of first balance:");
-console.log("first balance")
+function creditLimit(){
+	let  firstbalance = window.prompt("Enter number of first balance:");
+	console.log("first balance")
 
-let first_balance = 50000;
-let total_customers = 2500;
-let total_credit = 10000;
-let credit_Limit = 10000; 
+	let first_balance = 50000;
+	let total_customers = 2500;
+	let total_credit = 10000;
+	let credit_Limit = 10000; 
 
-for (let a = 0; a < credit Limit; a++) {
+for (let a = 0; a < creditLimit; a++) {
 
 	let = console.prompt("Enter first balance:");
 	console.log("first balance");
@@ -21,3 +22,5 @@ for (let a = 0; a < credit Limit; a++) {
 
 let credit_limit = firstbalance + credit_applied;
 console.log("credit_limit_exceeded:");
+
+};

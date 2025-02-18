@@ -39,4 +39,4 @@ let var2 = x;
 let var3 = y;
 let var4 = z;
 
-(w < z)? console.log("var2"):console.log("var3"):console.log("var1"):
+(w < z)? console.log("var2"):console.log("var3"),console.log("var1")

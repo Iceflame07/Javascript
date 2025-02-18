@@ -5,4 +5,4 @@ while(multiples < number){
 	console.log(multiples, 2)
 	count++,
 
-}
+};
